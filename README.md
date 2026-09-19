@@ -2,7 +2,7 @@
 <h3 align="center">🦖 Full Stack Developer & Code Enthusiast ⚽🌷</h3>
 
 <p align="center">
-  <a href="https://codepen.io/GennyOcampo"><img src="https://img.shields.io/badge/CodePen-4a90e2?style=for-the-badge&logo=aboutdotme&logoColor=fff"/></a>
+  <a href="https://codepen.io/GennyOcampo"><img src="https://img.shields.io/badge/CodePen-4a90e2?style=for-the-badge&logo=codepen&logoColor=fff"/></a>
   <a href="https://github.com/gegex08"><img src="https://img.shields.io/badge/GitHub-5072a7?style=for-the-badge&logo=github&logoColor=fff"/></a>
   <a href="https://linkedin.com/in/genny10"><img src="https://img.shields.io/badge/LinkedIn-357abd?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
   <a href="mailto:ogeneiva10@gmail.com"><img src="https://img.shields.io/badge/Email-6ba4b8?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
