@@ -59,9 +59,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gegex08&bg_color=00000000&hide_border=true&title_color=4a90e2&icon_color=4a90e2" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gegex08&bg_color=eef6fc&color=4a90e2&line=2a52be&point=2a52be&area=true&hide_border=true" alt="Activity Graph" />
-</p>
 
 ---
 <p align="center">🦕 ⚽ Dinomight Projects ⚽ 🦖</p>
