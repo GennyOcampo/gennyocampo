@@ -1,6 +1,6 @@
 <div align="center">
-  <h1><span style="font-family: 'Brush Script MT', cursive, sans-serif; font-size: 1.3em;">🦕 ✨ Hi there, I'm Geneiva Ocampo! ⚽ 👋</span></h1>
-  <h3><span style="font-family: 'Brush Script MT', cursive, sans-serif; font-size: 1.2em;">🦖 Full Stack Developer & Code Enthusiast ⚽🌷</span></h3>
+  <h1><span style="font-family: 'Brush Script MT', cursive, sans-serif;">🦕 ✨ Hi there, I'm Geneiva Ocampo! ⚽ 👋</span></h1>
+  <h3><span style="font-family: 'Brush Script MT', cursive, sans-serif;">🦖 Full Stack Developer & Code Enthusiast ⚽🌷</span></h3>
 </div>
 
 <p align="center">
