@@ -13,7 +13,7 @@
 <hr/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gegex08&color=4a90e2&style=for-the-badge&label=Cute+Visitors" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=gegex08&color=4a90e2&style=for-the-badge&label=Total+Visitors" alt="Visitor Badge" />
 </p>
 
 <h2 align="center">🦖 💻 Tech Stack & Sweet Tools ⚽</h2>
